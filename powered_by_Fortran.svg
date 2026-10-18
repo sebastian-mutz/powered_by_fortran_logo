@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="204.89211mm"
+   height="26.275621mm"
+   viewBox="0 0 204.89211 26.275621"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-2.4615844,-24.628027)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#734f96;stroke-width:1.00943;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-9"
+       width="203.88269"
+       height="25.26619"
+       x="2.9662995"
+       y="25.132742"
+       ry="6.1586342" />
+    <rect
+       style="fill:#734f96;fill-opacity:1;stroke:none;stroke-width:1.9816;stroke-linejoin:bevel"
+       id="rect1"
+       width="97.55825"
+       height="25.631065"
+       x="109.1853"
+       y="24.870832"
+       ry="6.2475729" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:Clarendon;-inkscape-font-specification:'Clarendon, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-linejoin:bevel"
+       x="114.87696"
+       y="44.996544"
+       id="text1-0"><tspan
+         id="tspan1-3"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.5778px;font-family:Clarendon;-inkscape-font-specification:'Clarendon, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.64583"
+         x="114.87696"
+         y="44.996544">Fortran</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Clarendon;-inkscape-font-specification:'Clarendon, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#734f96;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-linejoin:bevel"
+       x="7.4718871"
+       y="42.963856"
+       id="text1-0-4"><tspan
+         id="tspan1-3-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#734f96;fill-opacity:1;stroke:none;stroke-width:2.64583"
+         x="7.4718871"
+         y="42.963856">Powered by</tspan></text>
+  </g>
+</svg>
