@@ -1,6 +1,6 @@
 # "Powered by Fortran" Logo
 
-![](https://github.com/sebastian-mutz/powered_by_fortran_logo/blob/main/powered_by_Fortran_1024x128.png)
+![](https://github.com/sebastian-mutz/powered_by_fortran_logo/blob/main/powered_by_Fortran_badge_1024x128.png)
 
 The logo design was iterated in this [Fortran Discourse discussion](https://fortran-lang.discourse.group/t/powered-by-fortran/11172/35). 
 
