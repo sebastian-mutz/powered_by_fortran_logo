@@ -28,7 +28,7 @@
      inkscape:document-units="mm"
      inkscape:zoom="1"
      inkscape:cx="421.5"
-     inkscape:cy="474.5"
+     inkscape:cy="475.5"
      inkscape:window-width="1999"
      inkscape:window-height="1123"
      inkscape:window-x="0"
@@ -245,7 +245,7 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;font-family:Clarendon;-inkscape-font-specification:'Clarendon, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#734f96;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-linejoin:bevel"
-       x="7.4199848"
+       x="7.9491515"
        y="152.20805"
        id="text1-0-4-3-2-0-1"
        inkscape:export-filename="powered_by_Fortran.png"
@@ -254,7 +254,7 @@
          sodipodi:role="line"
          id="tspan1-3-7-5-7-6-2"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#734f96;fill-opacity:1;stroke:none;stroke-width:2.64583"
-         x="7.4199848"
+         x="7.9491515"
          y="152.20805">Powered by</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.0188;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
@@ -294,7 +294,7 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;font-family:Clarendon;-inkscape-font-specification:'Clarendon, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#734f96;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-linejoin:bevel"
-       x="111.10608"
+       x="111.63525"
        y="152.37453"
        id="text1-0-4-3-2-0-1-5"
        inkscape:export-filename="powered_by_Fortran.png"
@@ -303,7 +303,7 @@
          sodipodi:role="line"
          id="tspan1-3-7-5-7-6-2-9"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#734f96;fill-opacity:1;stroke:none;stroke-width:2.64583"
-         x="111.10608"
+         x="111.63525"
          y="152.37453">Powered by</tspan></text>
   </g>
 </svg>

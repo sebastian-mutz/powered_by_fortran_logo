@@ -10,19 +10,19 @@ The following applies to all versions of the logo:
 
 ## Versions
 
-There are three versions of the logo, as shown below. For each version, there is an upper case ("Powered by") and lower case ("powered by") variant. The `badge` and `stacked` versions also have a framless variant.
+There are three versions of the logo, as shown below. For each version, there is an upper case ("Powered by") and lower case ("powered by") variant. The `badge` and `stacked` versions also have a frameless variant.
 
 ### Badge Logo
 
-![](https://github.com/sebastian-mutz/powered_by_fortran_logo/blob/main/badge/powered_by_Fortran_badge_512x64.png)
+![](https://github.com/sebastian-mutz/powered_by_fortran_logo/blob/main/badge/powered_by_Fortran_badge_LC_512x64.png)
 
 ### Switch Logo
 
-![](https://github.com/sebastian-mutz/powered_by_fortran_logo/blob/main/switch/powered_by_Fortran_switch_512x64.png)
+![](https://github.com/sebastian-mutz/powered_by_fortran_logo/blob/main/switch/powered_by_Fortran_switch_LC_512x64.png)
 
 ### Stacked Logo
 
-![](https://github.com/sebastian-mutz/powered_by_fortran_logo/blob/main/stacked/powered_by_Fortran_stacked_512x64.png)
+![](https://github.com/sebastian-mutz/powered_by_fortran_logo/blob/main/stacked/powered_by_Fortran_stacked_LC_512x256.png)
 
 
 
