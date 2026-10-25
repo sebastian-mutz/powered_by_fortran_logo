@@ -1,5 +1,5 @@
 > [!NOTE]  
-> The final version of the logo are moved to [Fortran-lang assets](https://github.com/fortran-lang/assets). Please use those in your project.
+> The final versions of the logo are moved to [Fortran-lang assets](https://github.com/fortran-lang/assets). Please use those in your project.
 
 
 # "Powered by Fortran" Logo
